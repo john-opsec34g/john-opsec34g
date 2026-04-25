@@ -95,8 +95,8 @@ I bring technical depth, strong documentation discipline, and the communication 
 
 ## 📬 Let's Connect
 
-- 💼 **LinkedIn:** *[Add your LinkedIn URL here]*
-- 📧 **Email:** *[Add your professional email here]*
+- 💼 **LinkedIn:** *linkedin.com/in/john-victory*
+- 📧 **Email:** *jvictory627@gmail.com
 - 🌍 **Location:** Nigeria (open to remote roles globally)
 
 ---
